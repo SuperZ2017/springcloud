@@ -1,0 +1,5 @@
+spring:
+  elasticsearch:
+    jest:
+      #本地启动的Elasticsearch开启的HTTP地址，端口默认为9200
+      uris: http://127.0.0.1:9200
