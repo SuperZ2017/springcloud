@@ -10,6 +10,7 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
 
+
 #开启熔断器
 feign:
   hystrix:
