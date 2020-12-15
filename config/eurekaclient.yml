@@ -11,7 +11,7 @@ eureka:
     fetch-registry: true
 
 
-#开 启 熔 断器
+#开 启 熔 断 器
 feign:
   hystrix:
     enabled: true
