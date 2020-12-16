@@ -6,8 +6,8 @@ spring:
 eureka:
   instance:
     prefer-ip-address: true
-  client:
-    registe r- with -eureka: true
+  clent:
+    regi ste r- with -eureka: true
     fet ch-registry: true
 
 
