@@ -7,7 +7,7 @@ eureka:
   in stance:
     prefer-ip-address: true
   clent:
-    regi ste r- with -eureka: true
+    r egi ste r- with -eureka: true
     fet ch-registry: true
 
 
